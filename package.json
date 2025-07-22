@@ -1,7 +1,7 @@
 {
   "name": "piepay-backend",
   "version": "1.0.0",
-  "description": "PiePay Take-Home Assignment - Backend Service",
+  "description": "PiePay-Backend Service",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
