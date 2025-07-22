@@ -61,7 +61,6 @@ So,I used the below JSON structure to mock the API and complete the assignment.
     }
   }
 }
-=
 
 2. offerId is unique for each offer and can be used for deduplication.
 3. Only bankName and paymentInstrument are used to determine applicability of an offer.
