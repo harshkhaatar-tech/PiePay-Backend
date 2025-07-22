@@ -1,6 +1,6 @@
-# PiePay Backend Assignment – Offer Service
+# PiePay Backend Service
 
-This repository contains the backend solution for PiePay's take-home assignment. It allows detecting, storing, and querying Flipkart payment offers using a clean and scalable Express.js + MongoDB API.
+This repository contains the PiePay backend service. It allows detecting, storing, and querying Flipkart payment offers using a clean and scalable Express.js + MongoDB API.
 
 ---
 
